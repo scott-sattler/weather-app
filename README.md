@@ -1,1 +1,1 @@
-foo
+![alt text](https://github.com/scott-sattler/weather-app/blob/main/screenshots/Weather_App_Screenshot.png)
